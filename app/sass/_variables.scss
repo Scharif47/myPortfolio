@@ -1,0 +1,25 @@
+:root {
+  // Color
+  --colorMainWhite: #eaeaea;
+  --colorSecondaryWhite: #fff;
+
+  --colorBorder: #c1c1c1;
+
+  --colorLinks: #17a2b8;
+
+  --colorBigText: black;
+  --colorSmallText: #4b5156;
+
+  --themeDotBorder: #24292e;
+
+  --previewBg: rgb(251, 249, 243, 0.8);
+  --previewShadow: #f0ead6; 
+
+  --colorBtn: black;
+}
+
+// Border
+$defaultBorder: 1px solid var(--colorBorder);
+
+// Border radius
+$mainBorderRadius: 5px 5px 0 0;

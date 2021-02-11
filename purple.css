@@ -1,0 +1,18 @@
+:root {
+  --colorMainWhite: #46344e;
+  --colorSecondaryWhite: #382a3f;
+
+  --colorBorder: #1d1520;
+
+  --colorLinks: #17a2b8;
+
+  --colorBigText: #fff;
+  --colorSmallText: #8534a3;
+
+  --themeDotBorder: #fff;
+
+  --previewBg: rgb(29, 21, 5232, 0.8);
+  --previewShadow: #2b202f;
+
+  --colorBtn: #8534a3;
+}

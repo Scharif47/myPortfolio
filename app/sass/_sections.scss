@@ -204,7 +204,7 @@
     justify-content: center;
     padding-bottom: 3.125rem;
 
-    &-1 {
+    &-post {
       border: $defaultBorder;
 
       -webkit-box-shadow: -1px 1px 3px -1px rgba(0, 0, 0, 0.75);
@@ -231,6 +231,10 @@
           font-size: 0.85rem;
         }
       }
+    }
+
+    p {
+      color: gray;
     }
   }
 }
